@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Graphene.Crawler.Contracts\Graphene.Crawler.Contracts.csproj" />
+  </ItemGroup>
+
 </Project>
