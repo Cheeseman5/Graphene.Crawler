@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Graphene.Crawler.TestConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "first second third"
+    }
+  }
+}
